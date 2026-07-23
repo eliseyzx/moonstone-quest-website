@@ -1,4 +1,4 @@
-/* Shared interaction layer: mobile navigation, reveal motion, route details and season filters. */
+/* Shared interaction layer: mobile navigation, reveal motion, route details and theme filters. */
 document.addEventListener('DOMContentLoaded', () => {
   const button = document.querySelector('.menu-button'); const nav = document.querySelector('.nav-links');
   if (button && nav) button.addEventListener('click', () => { const open = nav.classList.toggle('open'); button.setAttribute('aria-expanded', String(open)); button.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation'); });

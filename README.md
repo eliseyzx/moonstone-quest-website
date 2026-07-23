@@ -6,7 +6,6 @@ Responsive multi-page static website for Moonstone Quest.
 - Home
 - Cultural Nodes / Waypoints
 - Rotating Themes
-- Pop-up Stores
 - Detailed Quest Guide
 - Rewards
 
@@ -25,7 +24,7 @@ python -m http.server 8000
 5. Select `main` and `/ (root)`.
 
 ## Prompt to give Codex
-Review this Moonstone Quest static website. Keep the mysterious moonlit gaming/quest aesthetic and all six pages. Improve accessibility, responsiveness and performance. Move themes, waypoints and rewards into reusable data structures. Do not add a backend yet. Explain important changes and run a link check after editing.
+Review this Moonstone Quest static website. Keep the mysterious moonlit gaming/quest aesthetic and the remaining five pages. Improve accessibility, responsiveness and performance. Move themes, waypoints and rewards into reusable data structures. Do not add a backend yet. Explain important changes and run a link check after editing.
 
 ## Content checks before launch
 Confirm final waypoint names and coordinates, event dates, historical claims, partners, reward quantities, redemption rules and stock limits.
